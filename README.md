@@ -4,7 +4,7 @@ Dashboard interaktif untuk visualisasi data kependudukan Kota Samarinda tahun 20
 
 ## 🌐 Live Demo
 
-**Dashboard:** [https://samarinda-dashboard.streamlit.app](https://samarinda-dashboard.streamlit.app) *(ganti dengan URL setelah deploy)*
+**Dashboard:** https://dashboard-kependudukan.streamlit.app
 
 ## ✨ Fitur
 
